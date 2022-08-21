@@ -112,7 +112,7 @@ const Home = () => {
                     <div className="service-details" data-wow-delay=".1s">
                       <div className="service-head">
                         <img
-                          src="public/assets/img/service/a.jpg"
+                          src="assets/img/service/a.jpg"
                           alt="design-development"
                         />
                       </div>
